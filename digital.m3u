@@ -15,8 +15,8 @@ http://45.134.141.161:2200/ARG/Eurosport_1_HD/index.m3u8
 http://45.134.141.161:2200/ARG/Eurosport_2_HD/index.m3u8
 #EXTINF:-1,HBO_HD
 http://45.134.141.161:2200/ARG/HBO_HD/index.m3u8
-#EXTINF:-1,History_HD
-http://45.134.141.161:2200/ARG/History_HD/index.m3u8
+#EXTINF:-1,Natgeo_HD
+http://45.134.141.161:2200/ARG/Nat_Geographic_HD/index.m3u8
 #EXTINF:-1,DAZN_1_HD
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 #EXTINF:-1,Cartoonito
@@ -49,12 +49,12 @@ http://45.134.141.161:2200/ARG/VTV/index.m3u8
 http://45.134.141.161:2200/ARG/Nick_Jr/index.m3u8
 #EXTINF:-1,History_HD
 http://45.134.141.161:2200/ARG/History_HD/index.m3u8
-#EXTINF:-1,Nat_Geo_Wild_HD
-http://45.134.141.161:2200/ARG/Nat_Geo_Wild_HD/index.m3u8
+#EXTINF:-1,History2 HD
+http://45.134.141.161:2200/ARG/History_2_HD/index.m3u8
 #EXTINF:-1,Discovery_Science_HD
 http://45.134.141.161:2200/ARG/Discovery_Science_HD/index.m3u8
 #EXTINF:-1,Pasiones
-http://45.134.141.161:2200/ARG/Pasiones_HD/index.m3u8h
+http://45.134.141.161:2200/ARG/Pasiones_HD/index.m3u8
 #EXTINF:-1,LIFETIME
 http://45.134.141.161:2200/ARG/LIFETIME_HD/index.m3u8
 #EXTINF:-1,Paramount_Channel
@@ -63,7 +63,7 @@ http://45.134.141.161:2200/ARG/Paramount_Channel_HD/index.m3u8
 http://45.134.141.161:2200/ARG/Discovery_Investigation_HD/index.m3u8
 #EXTINF:-1,FX
 http://45.134.141.161:2200/ARG/FX_HD/index.m3u8
-#EXTINF:-1,AMC
+#EXTINF:-1,AMC sat en portugues
 http://45.134.141.161:2200/ARG/AMC_HD/index.m3u8
 #EXTINF:-1,Studio_Universal
 http://45.134.141.161:2200/ARG/Studio_Universal_HD/index.m3u8
